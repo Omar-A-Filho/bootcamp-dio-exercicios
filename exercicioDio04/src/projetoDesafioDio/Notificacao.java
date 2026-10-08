@@ -1,3 +1,5 @@
+package projetoDesafioDio;
+
 public class Notificacao {
 
     private String canal = "E-mail";

@@ -1,3 +1,5 @@
+package projetoDesafioDio;
+
 public class DadosFuncionario {
 
     private String nome;
